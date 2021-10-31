@@ -9,11 +9,12 @@
 ### <ins>About Me:</ins>
 
 I'm a Game Developer && Computer graphics Lover!
+- In my eyes, work that cannot promote the industry is rubbish. But it is very helpful for learning, so I will create a lot of rubbish.
 - Interested in game development, computer graphics and game engine programming
 - Currently practising C++, OpenGL, C#, unity, and my goal is to be a game engine programmer.
-- Finished work [JBRenderer][jbRenderer]:<br>
+- Rubbish work [JBRenderer][jbRenderer]:<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Js11252001&repo=JBRenderer)][jbRenderer]
-- Please check out the [study notes][study notes] for more about my experience in programming, computer graphics, etc.
+- Please check out the [study notes][study notes](This is a note from Youdaoyun in China, so it can’t be linked abroad. ) for more about my experience in programming, computer graphics, etc.
 
 
 ***

@@ -22,9 +22,6 @@ I'm a Game Developer && Computer graphics Lover!
 
 <img align="center" alt="npchitman|C++" width="30px" src="images/c++.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|C#" width="30px" src="images/csharp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="npchitman|Rust" width="30px" src="images/rust.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="npchitman|Python" width="30px" src="images/python.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="npchitman|Vulkan" width="30px" src="images/vulkan.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|OpenGL" width="30px" src="images/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|Blender" width="30px" src="images/blender.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|Unity" width="30px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,4 +42,3 @@ I'm a Game Developer && Computer graphics Lover!
 <!-- [<img align="left" alt="npchitman | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit] -->
 [<img align="left" alt="npchitman | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="npchitman | Gmail" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
-[<img align="left" alt="npchitman | Outlook" width="22px" src="https://image.flaticon.com/icons/png/512/732/732223.png" />][outlook]

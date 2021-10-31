@@ -1,10 +1,7 @@
 <!-- List Of Websites-->
-[study notes]: https://npchitman.com
-[Aphrodite]: https://github.com/npchitman/Aphrodite
-[outlook]: mailto:npchitman@outlook.com
-[reddit]: https://www.reddit.com/user/npchitman
-[github]: https://www.github.com/npchitman
-[gmail]: mailto:npchitmann@gmail.com
+[study notes]: https://note.youdao.com/s/PzJ4TA7B
+[github]: https://www.github.com/Js11252001
+[gmail]: mailto:nningfvcg15@gmail.com
 
 ### Hi there, I'm Shan Jia<br>
 
@@ -13,7 +10,7 @@
 I'm a Game Developer && Computer graphics Lover!
 - Interested in game development, computer graphics and game engine programming
 - Currently practising C++, OpenGL, C#, unity, and my goal is to be a game engine programmer.
-- Please check out the [website][blog] for more about my experience in programming, computer graphics, etc.
+- Please check out the [study notes][study notes] for more about my experience in programming, computer graphics, etc.
 
 
 ***

@@ -2,6 +2,7 @@
 [study notes]: https://note.youdao.com/s/PzJ4TA7B
 [github]: https://www.github.com/Js11252001
 [gmail]: mailto:nningfvcg15@gmail.com
+[jbRenderer]: https://github.com/Js11252001/JBRenderer
 
 ### Hi there, I'm Shan Jia<br>
 
@@ -10,6 +11,8 @@
 I'm a Game Developer && Computer graphics Lover!
 - Interested in game development, computer graphics and game engine programming
 - Currently practising C++, OpenGL, C#, unity, and my goal is to be a game engine programmer.
+- Finished work [JBRenderer][jbRenderer]:<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Js11252001&repo=JBRenderer)][jbRenderer]
 - Please check out the [study notes][study notes] for more about my experience in programming, computer graphics, etc.
 
 

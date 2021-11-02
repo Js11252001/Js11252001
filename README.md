@@ -5,6 +5,7 @@
 [jbRenderer]: https://github.com/Js11252001/JBRenderer
 
 ### Hi there, I'm Shan Jia<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Js11252001&count_private=true&show_icons=true&include_all_commits=true&line_height=40&hide=contribs,prs,issues)
 
 ### <ins>About Me:</ins>
 
@@ -32,7 +33,6 @@ I'm a Game Developer && Computer graphics Lover!
 
 ### <ins>Github:</ins>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Js11252001&count_private=true&show_icons=true&include_all_commits=true&line_height=40&hide=contribs,prs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Js11252001&hide=html,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 

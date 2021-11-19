@@ -39,7 +39,3 @@ I'm a Game Developer && Computer graphics Lover!
 
 ***
 
-### Connect with me:
-
-<!-- [<img align="left" alt="npchitman | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit] -->
-[<img align="left" alt="npchitman | Gmail" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]

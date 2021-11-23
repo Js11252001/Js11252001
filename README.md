@@ -5,7 +5,8 @@
 [jbRenderer]: https://github.com/Js11252001/JBRenderer
 
 ### Hi there, I'm Shan Jia<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Js11252001&count_private=true&show_icons=true&include_all_commits=true&line_height=40&hide=contribs,prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Js11252001&theme=dark)
+
 
 ### <ins>About Me:</ins>
 
@@ -15,7 +16,7 @@ I'm a Game Developer && Computer graphics Lover!
 - Interested in game development, computer graphics and game engine programming
 - Currently practising C++, OpenGL, C#, unity, and my goal is to be a game engine programmer.
 - Rubbish work [JBRenderer][jbRenderer]:<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Js11252001&repo=JBRenderer)][jbRenderer]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Js11252001&repo=JBRenderer&theme=dark)][jbRenderer]
 - Please check out the [study notes][study notes](This is a note from Youdaoyun in China, so it can’t be linked abroad. ) for more about my experience in programming, computer graphics, etc.
 
 
@@ -33,7 +34,8 @@ I'm a Game Developer && Computer graphics Lover!
 
 ### <ins>Github:</ins>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Js11252001&hide=html,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Js11252001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 

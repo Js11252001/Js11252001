@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-
   <a href="https://blog.csdn.net/qq_50981313?spm=1000.2115.3001.5343" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
@@ -46,12 +45,9 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
   </a> 
   &emsp;
-  
   <a href="https://www.youtube.com/channel/UCiX-qc5hT-VQ3Cszof7fN1g" target="_blank" alt="YouTube" title="YouTube">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
-  &emsp;
-  
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>

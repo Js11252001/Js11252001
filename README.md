@@ -71,11 +71,9 @@ Here are some ideas to get you started:
 ### <ins>About Me:</ins>
 
 I'm a **Game Developer && Computer graphics Lover!**
-- Recently I watch tutorials a lot but I ignore the importance of practice. As it's important for a programmer to think more and practice more, watch many tutorials can't lead you to a programmer. "Imoprtant things of all, just keep the scale small and keep yor ambinations low at the beginning and then gradually increase as you gain successes and don't fool yourself into believing that you're actually learning how to program by doing that you have to code and you have to do this on your own if you want to become an actual programmer"————ChiliTomatoNoodle. I appreciate his work on the programming and his words make sense to me.
-- In my eyes, work that cannot promote the industry is rubbish. But it is very helpful for learning, so I will create a lot of rubbish.
 - Interested in game development, computer graphics and game engine programming
-- Currently practising C++, OpenGL, C#, unity, and my goal is to be a game engine programmer.
-- Rubbish work [JBRenderer][jbRenderer]:<br>
+- Currently practising C++, OpenGL, C#, unity.
+- Jvav work [JBRenderer][jbRenderer]:<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Js11252001&repo=JBRenderer&title_color=333&text_color=777")][jbRenderer]
 - Please check out the [study notes][study notes](This is a note from Youdaoyun in China, so it can’t be linked abroad. ) for more about my experience in programming, computer graphics, etc.
 

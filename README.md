@@ -60,9 +60,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/Js11252001?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Js11252001?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Js11252001">
-    <img src="https://badges.pufler.dev/commits/monthly/Js11252001?style=flat-square&color=black&logo=github">
-  </a>
 </p>
 
 <h2></h2>

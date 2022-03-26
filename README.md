@@ -66,11 +66,9 @@ Here are some ideas to get you started:
 
 ### <ins>About Me:</ins>
 
-I'm a **Game Developer && Computer graphics Lover!**
+I'm a **Game Lover && Computer graphics Lover!**
 - Interested in game development, computer graphics and game engine programming
 - Currently practising C++, OpenGL, C#, unity.
-- Jvav work [JBRenderer][jbRenderer]:<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Js11252001&repo=JBRenderer&title_color=333&text_color=777")][jbRenderer]
 - Please check out the [study notes][study notes](This is a note from Youdaoyun in China, so it can’t be linked abroad. ) for more about my experience in programming, computer graphics, etc.
 
 

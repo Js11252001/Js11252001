@@ -86,7 +86,7 @@ I'm a **Game Lover && Computer graphics Lover!**
 
 ### <ins>Github:</ins>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Js11252001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Js11252001&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 

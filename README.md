@@ -49,18 +49,6 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
   <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/Js11252001">
-    <img src="https://badges.pufler.dev/visits/Js11252001/Js11252001?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Js11252001">
-    <img src="https://badges.pufler.dev/years/Js11252001?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Js11252001?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Js11252001?style=flat-square&color=black&logo=github">
-  </a>
-</p>
 
 <h2></h2>
 

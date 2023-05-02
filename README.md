@@ -65,7 +65,6 @@ I'm a **Game Lover && Computer graphics Lover!**
 ### <ins>Languages and Tools:</ins>
 
 <img align="center" alt="npchitman|C++" width="30px" src="images/c++.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="npchitman|C#" width="30px" src="images/csharp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|OpenGL" width="30px" src="images/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|Blender" width="30px" src="images/blender.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|Unity" width="30px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;

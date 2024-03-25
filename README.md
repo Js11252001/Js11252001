@@ -56,9 +56,8 @@ Here are some ideas to get you started:
 
 I'm a **Game Lover && Computer graphics Lover!**
 - Interested in game development, computer graphics and game engine programming
-- Currently practising C++, OpenGL, C#, unity.
+- Currently preparing for the master degree, plan to learn more about Computer Graphcis, especially on Character Animation.
 - Please check out the [study notes][study notes](This is a note from Youdaoyun in China, so it can’t be linked abroad. ) for more about my experience in programming, computer graphics, etc.
-
 
 ***
 

@@ -54,19 +54,19 @@ Here are some ideas to get you started:
 
 ### <ins>About Me:</ins>
 
-I'm a **Game Lover && Computer graphics Lover!**
+I'm interested in **games** && **Computer graphics Fans!**
 - Interested in game development, computer graphics and game engine programming
-- Currently preparing for the master degree, plan to learn more about Computer Graphcis, especially on Character Animation.
-- Please check out the [study notes][study notes](This is a note from Youdaoyun in China, so it can’t be linked abroad. ) for more about my experience in programming, computer graphics, etc.
+- Currently study for the master degree but it's not easy as I used thought, so playing guitar in my spare time or learning skill for indie game for fun!
+- Maybe I will upload my indie game learning experience after having enough to talk about  :)
 
 ***
 
 ### <ins>Languages and Tools:</ins>
 
 <img align="center" alt="npchitman|C++" width="30px" src="images/c++.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="npchitman|OpenGL" width="30px" src="images/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="npchitman|Blender" width="30px" src="images/blender.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="npchitman|C#" width="30px" src="images/csharp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|Unity" width="30px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="npchitman|Unreal" width="30px" src="images/Unreal.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ***
 

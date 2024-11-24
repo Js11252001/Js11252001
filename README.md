@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 
 ### <ins>About Me:</ins>
 
-I'm interested in **games** && **Computer graphics Fans!**
+I'm interested in **games** && I'm a **Computer graphics Fans!**
 - Interested in game development, computer graphics and game engine programming
 - Currently study for the master degree but it's not easy as I used thought, so playing guitar in my spare time or learning skill for indie game for fun!
-- Maybe I will upload my indie game learning experience after having enough to talk about  :)
+- Maybe I will upload my indie game learning experience after having enough things to talk about  :)
 
 ***
 
